@@ -1,0 +1,21 @@
+body {
+  color: #494b50;
+  font-family: "Open Sans", sans-serif;
+}
+
+button {
+  width: 25%;
+  border-radius: 10px;
+  font-size: 20px;
+  color: #494b50;
+  font-family: "Open Sans", sans-serif;
+}
+
+button:focus {
+  background-color: #494b50;
+  color: #ffffff;
+}
+
+label {
+  display: block;
+}
