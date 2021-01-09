@@ -90,7 +90,7 @@ const myQuestions = [
   {
     question: "Who is the strongest?",
     answers: {
-      a: "Nigelee7708",
+      a: "You",
       b: "The Hulk",
       c: "Superman"
     },
@@ -99,7 +99,7 @@ const myQuestions = [
   {
     question: "Who is the smartest?",
     answers: {
-      a: "Nigelee7708",
+      a: "You",
       b: "Iron Man",
       c: "Batman"
     },
@@ -108,7 +108,7 @@ const myQuestions = [
   {
     question: "Who is the fastest?",
     answers: {
-      a: "Nigelee7708",
+      a: "You",
       b: "The Flash",
       c: "Quicksilver"
     },
